@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_r_w_a2_1_1mobile__robot.html" title="Base Class mobile_robot." alt="" coords="5,81,160,108"/>
+<area shape="rect" id="node2" href="$class_r_w_a2_1_1_aerial_robot.html" title="Derived class AerialRobot." alt="" coords="217,5,363,32"/>
+<area shape="rect" id="node3" href="$class_r_w_a2_1_1_aquatic_robot.html" title="Derived class AquaticRobot." alt="" coords="212,56,368,83"/>
+<area shape="rect" id="node4" href="$class_r_w_a2_1_1_legged_robot.html" title="Derived class Legged Robot." alt="" coords="213,107,367,133"/>
+<area shape="rect" id="node5" href="$class_r_w_a2_1_1_wheeled_robot.html" title="Derived class WheeledRobot." alt="" coords="208,157,372,184"/>
+</map>
